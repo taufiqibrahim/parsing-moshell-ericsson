@@ -1,0 +1,16 @@
+191008-14:36:09 10.19.234.60 18.0p  stopfile=/tmp/21504
+Trying rbs's password from uservariable com_passwords ...OK
+
+$ssh_pid = 22105
+
+"Connected to 10.19.234.60 (SubNetwork=LTERAN_TAC_43136,MeContext=WULTE_JLJATIDUA_TB_XXX,ManagedElement=WULTE_JLJATIDUA_TB_XXX)"
+
+Checking MOM version...MSRBS_NODE_MODEL_18.Q2_362.27897.47_d5a3
+Parsing MOM (cached): /var/tmp/20191008-143553_21443/MSRBS_NODE_MODEL_18.Q2_362.27897.47_d5a3.xml.cache.gz ............................................................................................................Done.
+Using paramfile /opt/ericsson/amos/moshell/commonjars/pm/PARAM_MSRBS_17.Q3.txt
+Parsing file /opt/ericsson/amos/moshell/commonjars/pm/PARAM_MSRBS_17.Q3.txt ...................................................................Done.
+Using imomdfile /opt/ericsson/amos/moshell/commonjars/pm/IMOMD_MSRBS_18.Q2.txt
+Using imomfile /opt/ericsson/amos/moshell/commonjars/pm/IMOM_MSRBS_18.Q2.txt
+"Connected to 10.19.234.60 (SubNetwork=LTERAN_TAC_43136,MeContext=WULTE_JLJATIDUA_TB_XXX,ManagedElement=WULTE_JLJATIDUA_TB_XXX)"
+
+Last MO: 10080. Loaded 10080 MOs. Total: 10081 MOs.

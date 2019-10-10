@@ -1,0 +1,8 @@
+Value MO (\S+)
+Value electricalAntennaTilt (\d+)
+Value antennaSN (\S+)
+Value opState (\d+)
+Value userLabel (\S+)
+
+Start
+  ^${MO}\s+${electricalAntennaTilt}\s+${antennaSN}\s+${opState}\s+\(ENABLED\)\s+${userLabel} -> Record

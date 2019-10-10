@@ -1,0 +1,26 @@
+hget retsubunit electricalanten|label|state|serial  
+
+191008-13:40:54 10.19.234.60 18.0p MSRBS_NODE_MODEL_18.Q2_362.27897.47_d5a3 stopfile=/tmp/10627
+.......
+=================================================================================================================
+MO                                                    electricalAntennaTilt iuantAntennaSerialNumber operationalState userLabel
+=================================================================================================================
+"AntennaUnitGroup=1,AntennaNearUnit=RET-1,RetSubUnit=1 80                    AE009J095455T--R1        1 (ENABLED)      ret_900  "
+"AntennaUnitGroup=1,AntennaNearUnit=RET-2,RetSubUnit=1 20                    AE009J095455T--Y1        1 (ENABLED)      ret_2100 "
+"AntennaUnitGroup=1,AntennaNearUnit=RET-3,RetSubUnit=1 20                    AE009J095455T--Y2        1 (ENABLED)      ret_1800 "
+"AntennaUnitGroup=1,AntennaNearUnit=RET-4,RetSubUnit=1 20                    AE009J095455T--Y3        1 (ENABLED)      ret_1800 "
+"AntennaUnitGroup=1,AntennaNearUnit=RET-5,RetSubUnit=1 20                    AE009J095455T--Y4        1 (ENABLED)      ret_2100 "
+"AntennaUnitGroup=2,AntennaNearUnit=RET-1,RetSubUnit=1 80                    AE009J095663T--R1        1 (ENABLED)      ret_900  "
+"AntennaUnitGroup=2,AntennaNearUnit=RET-2,RetSubUnit=1 40                    AE009J095663T--Y1        1 (ENABLED)      ret_2100 "
+"AntennaUnitGroup=2,AntennaNearUnit=RET-3,RetSubUnit=1 40                    AE009J095663T--Y2        1 (ENABLED)      ret_1800 "
+"AntennaUnitGroup=2,AntennaNearUnit=RET-4,RetSubUnit=1 40                    AE009J095663T--Y3        1 (ENABLED)      ret_1800 "
+"AntennaUnitGroup=2,AntennaNearUnit=RET-5,RetSubUnit=1 40                    AE009J095663T--Y4        1 (ENABLED)      ret_2100 "
+"AntennaUnitGroup=3,AntennaNearUnit=RET-1,RetSubUnit=1 80                    AE009J095624T--R1        1 (ENABLED)      ret_900  "
+"AntennaUnitGroup=3,AntennaNearUnit=RET-2,RetSubUnit=1 40                    AE009J095624T--Y1        1 (ENABLED)      ret_2100 "
+"AntennaUnitGroup=3,AntennaNearUnit=RET-3,RetSubUnit=1 40                    AE009J095624T--Y2        1 (ENABLED)      ret_1800 "
+"AntennaUnitGroup=3,AntennaNearUnit=RET-4,RetSubUnit=1 40                    AE009J095624T--Y3        1 (ENABLED)      ret_1800 "
+"AntennaUnitGroup=3,AntennaNearUnit=RET-5,RetSubUnit=1 40                    AE009J095624T--Y4        1 (ENABLED)      ret_2100 "
+=================================================================================================================
+Total: 15 MOs
+
+Added 15 MOs to group: hget_group
